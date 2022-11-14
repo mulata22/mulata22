@@ -8,7 +8,7 @@ Following to my graduation in BSc Degree in Applied Mathematics and achieved sev
 </p>
 
 <br />
-### 🌱 &nbsp; My Work Experience
+🌱 My Work Experience
 <br/>
 <br/>
 
