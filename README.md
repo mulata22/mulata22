@@ -1,4 +1,3 @@
-![MN-Banner2](https://user-images.githubusercontent.com/85038923/201564497-97f30926-cd87-4451-af07-6815d72305cb.png)
 ![MN-Banner3](https://user-images.githubusercontent.com/85038923/201640151-97d530c7-ad77-494b-b4e3-a08411dd6f14.png)
 
 👋 📫 A freelancer Software tester & web developer
