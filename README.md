@@ -47,10 +47,10 @@ Following to my graduation in BSc Degree in Applied Mathematics and achieved sev
 
 <!-- web related playlists starts here  -->
 
-[Mulata]: https://www.youtube.com/channel/UCPuvqzNAzgMVx1lFgNZXRYg 
+[Mulata]: https://www.youtube.com/@mulatanurhusen6614 
 
 <!-- web related playlists ends here  -->
 
 <!-- cse related playlists starts here  -->
 
-[cplaylist]: https://www.youtube.com/channel/UCPuvqzNAzgMVx1lFgNZXRYg
+[cplaylist]: https://www.youtube.com/@mulatanurhusen6614
