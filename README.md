@@ -30,9 +30,10 @@ Following to my graduation in BSc Degree in Applied Mathematics and achieved sev
 <br />
 <!-- work experience section ends here  -->
 
-
 ### 🏅 Training & Achievements:
 
+- Microsoft Certified: Azure Fundamentals, Microsoft Certification ID: 993688115 Issued on December 28, 2022 No Expiration Date
+- https://www.credly.com/badges/aa803bad-3209-4ffe-94ea-8eafcb6917da/linked_in_profile 
 - IP-V6 Implementation Strategies in Telecom Networks
 - IT Project Management (ITPM) With MS Project 2013 and SPSS
 - Implementing and Maintaining a MS SQL Server 2008 Database, Developing  MS ASP.NET Web Applications Using MS Visual Studio 2008, Introduction to C# Programming with MS Visual Studio 2008 using .NET Frameworks  Database, Designing, Implementing, Maintaining a MS SQL Server 2005 Database
