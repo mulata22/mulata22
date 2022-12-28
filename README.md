@@ -33,6 +33,7 @@ Following to my graduation in BSc Degree in Applied Mathematics and achieved sev
 ### 🏅 Training & Achievements:
 ![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/85038923/209868176-ea0c328b-5505-43c3-8045-aa946efb3caa.png)
 - Microsoft Certified: Azure Fundamentals, Microsoft Certification ID: 993688115 Issued on December 28, 2022 No Expiration Date
+- https://www.credly.com/badges/aa803bad-3209-4ffe-94ea-8eafcb6917da/public_url
 - https://www.credly.com/badges/aa803bad-3209-4ffe-94ea-8eafcb6917da/linked_in_profile 
 - IP-V6 Implementation Strategies in Telecom Networks
 - IT Project Management (ITPM) With MS Project 2013 and SPSS
