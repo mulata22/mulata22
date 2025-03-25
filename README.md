@@ -15,7 +15,7 @@ Following to my graduation in BSc Degree in Applied Mathematics and achieved sev
 - [freelancer Software tester][uTest] 💞️
 - [Principal System & Database Administrator (Federal Housing Corporation)][ www.fhc.gov.et]
 - [System & Database Administrator (Ethiopian Management Institute)][ www.emi.gov.et]
-- [G.Manager (MNM Technology Solutions)][ www.mnm.com.et]
+- [G.Manager (MNM Technology Solutions)][ www.mnm.et]
 
 
 | Position            | Institute                                   | Duration            | Location           |
